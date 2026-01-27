@@ -1,0 +1,12 @@
+﻿.venv/
+
+# OneDrive and Windows files
+Thumbs.db
+desktop.ini
+# Temporary files
+*.tmp
+~$*
+
+# VS Code files
+.vscode/
+*.code-workspace
