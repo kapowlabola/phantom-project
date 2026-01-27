@@ -1,8 +1,18 @@
-﻿.venv/
+﻿# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data Files (Crucial: Keep these out of Git)
+*.csv
+*.xlsx
+*.json
+data/
 
 # OneDrive and Windows files
 Thumbs.db
 desktop.ini
+
 # Temporary files
 *.tmp
 ~$*
