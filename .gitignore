@@ -8,6 +8,7 @@ __pycache__/
 *.xlsx
 *.json
 data/
+backups/
 
 # OneDrive and Windows files
 Thumbs.db
