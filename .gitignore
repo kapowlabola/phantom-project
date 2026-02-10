@@ -20,4 +20,4 @@ desktop.ini
 
 # VS Code files
 .vscode/
-*.code-workspace
+*.code-workspace.DS_Store
